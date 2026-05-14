@@ -67,12 +67,12 @@ The project uses the following ADLS Gen2 folder structure:
 
 ```text
 raw
-├── customers
-│   └── customers.csv
-├── accounts
-│   └── accounts.csv
-└── transactions
-    └── transactions.csv
+├── customers.csv
+│
+├── accounts.csv
+│   
+└── transactions.csv
+    
 
 processed
 ├── bronze
