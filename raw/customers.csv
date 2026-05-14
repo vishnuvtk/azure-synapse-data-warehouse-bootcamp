@@ -1,0 +1,18 @@
+customer_id,customer_name,city,province,country,customer_segment,signup_date
+CUST001,Aarav Menon,Toronto,ON,Canada,Retail,2023-01-15
+CUST002,Riya Sharma,Oshawa,ON,Canada,Retail,2022-11-05
+CUST003,Noah Wilson,Mississauga,ON,Canada,Premium,2021-08-22
+CUST004,Emma Brown,Brampton,ON,Canada,Retail,2023-05-11
+CUST005,Liam Johnson,Hamilton,ON,Canada,Business,2020-02-17
+CUST006,Sophia Lee,Scarborough,ON,Canada,Premium,2022-04-09
+CUST007,Ethan Davis,Markham,ON,Canada,Retail,2024-01-03
+CUST008,Mia Patel,Ajax,ON,Canada,Business,2021-12-20
+CUST009,Lucas Martin,Pickering,ON,Canada,Retail,2023-09-30
+CUST010,Olivia Taylor,Whitby,ON,Canada,Premium,2022-07-14
+CUST011,Benjamin Clark,Vaughan,ON,Canada,Retail,2023-03-19
+CUST012,Ava Thomas,Richmond Hill,ON,Canada,Business,2021-06-28
+CUST013,Mason White,Etobicoke,ON,Canada,Premium,2020-10-02
+CUST014,Isabella Khan,North York,ON,Canada,Retail,2024-02-25
+CUST015,James Anderson,Kitchener,ON,Canada,Business,2022-12-01
+CUST003,Noah Wilson,Mississauga,ON,Canada,Premium,2021-08-22
+,Missing Customer ID,Toronto,ON,Canada,Retail,2024-03-01

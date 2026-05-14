@@ -1,0 +1,66 @@
+transaction_id,account_id,customer_id,transaction_date,transaction_type,amount,merchant_category,payment_method,transaction_status,transaction_location,ingestion_timestamp
+TXN0001,ACC015,CUST015,2025-04-12,Credit,3277.86,Fuel,Credit Card,Completed,Online,2026-05-13 23:24:28
+TXN0002,ACC007,CUST007,2025-01-19,Debit,493.71,Groceries,Credit Card,Pending,Brampton,2026-05-13 23:24:28
+TXN0003,ACC003,CUST003,2025-03-21,Debit,1528.61,Transfer,Mobile Wallet,Completed,Online,2026-05-13 23:24:28
+TXN0004,ACC006,CUST006,2025-03-09,Credit,4722.42,Healthcare,ACH,Completed,Toronto,2026-05-13 23:24:28
+TXN0005,ACC015,CUST015,2025-02-08,Credit,4252.13,Travel,Mobile Wallet,Pending,Online,2026-05-13 23:24:28
+TXN0006,ACC005,CUST005,2025-01-19,Debit,1694.8,Insurance,Credit Card,Completed,Mississauga,2026-05-13 23:24:28
+TXN0007,ACC012,CUST012,2025-03-31,Debit,1798.74,Transfer,Credit Card,Completed,Online,2026-05-13 23:24:28
+TXN0008,ACC010,CUST010,2025-01-28,Credit,161.38,Fuel,ACH,Completed,Online,2026-05-13 23:24:28
+TXN0009,ACC002,CUST002,2025-04-03,Debit,124.2,Fuel,ACH,Completed,Online,2026-05-13 23:24:28
+TXN0010,ACC011,CUST011,2025-03-24,Credit,290.48,Healthcare,Credit Card,Completed,Brampton,2026-05-13 23:24:28
+TXN0011,ACC014,CUST014,2025-04-07,Debit,2488.95,Restaurant,Credit Card,Completed,Toronto,2026-05-13 23:24:28
+TXN0012,ACC003,CUST003,2025-01-28,Debit,320.68,Fuel,ACH,Completed,Online,2026-05-13 23:24:28
+TXN0013,ACC007,CUST007,2025-03-02,Credit,2325.67,Restaurant,Mobile Wallet,Failed,Mississauga,2026-05-13 23:24:28
+TXN0014,ACC007,CUST007,2025-01-19,Debit,2073.47,Fuel,Mobile Wallet,Completed,Brampton,2026-05-13 23:24:28
+TXN0015,ACC014,CUST014,2025-02-03,Debit,488.34,Groceries,ACH,Completed,Toronto,2026-05-13 23:24:28
+TXN0016,ACC005,CUST005,2025-04-12,Credit,227.87,Education,Online Transfer,Completed,Brampton,2026-05-13 23:24:28
+TXN0017,ACC001,CUST001,2025-03-25,Debit,560.88,Groceries,Debit Card,Failed,Mississauga,2026-05-13 23:24:28
+TXN0018,ACC006,CUST006,2025-03-28,Credit,3874.85,Fuel,Debit Card,Failed,Mississauga,2026-05-13 23:24:28
+TXN0019,ACC014,CUST014,2025-04-13,Debit,409.97,Groceries,Debit Card,Completed,Online,2026-05-13 23:24:28
+TXN0020,ACC007,CUST007,2025-01-23,Credit,2288.6,Restaurant,Credit Card,Failed,Online,2026-05-13 23:24:28
+TXN0021,ACC009,CUST009,2025-04-29,Credit,2341.81,Utilities,ACH,Failed,Online,2026-05-13 23:24:28
+TXN0022,ACC009,CUST009,2025-01-15,Credit,645.28,Transfer,Credit Card,Completed,Brampton,2026-05-13 23:24:28
+TXN0023,ACC013,CUST013,2025-02-28,Credit,4317.64,Fuel,Debit Card,Completed,Brampton,2026-05-13 23:24:28
+TXN0024,ACC007,CUST007,2025-01-03,Debit,1209.35,Fuel,Online Transfer,Completed,Online,2026-05-13 23:24:28
+TXN0025,ACC010,CUST010,2025-04-18,Debit,364.06,Education,Mobile Wallet,Completed,Oshawa,2026-05-13 23:24:28
+TXN0026,ACC006,CUST006,2025-04-05,Credit,3672.47,Healthcare,Online Transfer,Completed,Brampton,2026-05-13 23:24:28
+TXN0027,ACC015,CUST015,2025-04-17,Credit,3867.41,Insurance,Credit Card,Completed,Toronto,2026-05-13 23:24:28
+TXN0028,ACC004,CUST004,2025-03-06,Debit,1376.8,Utilities,ACH,Completed,Brampton,2026-05-13 23:24:28
+TXN0029,ACC006,CUST006,2025-03-07,Credit,332.82,Education,Mobile Wallet,Completed,Toronto,2026-05-13 23:24:28
+TXN0030,ACC010,CUST010,2025-03-09,Debit,1725.97,Groceries,Mobile Wallet,Completed,Brampton,2026-05-13 23:24:28
+TXN0031,ACC012,CUST012,2025-01-02,Debit,568.52,Insurance,Debit Card,Completed,Toronto,2026-05-13 23:24:28
+TXN0032,ACC005,CUST005,2025-02-09,Credit,1040.78,Fuel,Credit Card,Completed,Online,2026-05-13 23:24:28
+TXN0033,ACC013,CUST013,2025-03-24,Debit,2338.77,Travel,Debit Card,Completed,Mississauga,2026-05-13 23:24:28
+TXN0034,ACC010,CUST010,2025-01-27,Credit,3366.01,Healthcare,Debit Card,Completed,Online,2026-05-13 23:24:28
+TXN0035,ACC003,CUST003,2025-03-02,Debit,2086.06,Healthcare,Online Transfer,Completed,Toronto,2026-05-13 23:24:28
+TXN0036,ACC008,CUST008,2025-01-08,Credit,860.06,Travel,Credit Card,Completed,Mississauga,2026-05-13 23:24:28
+TXN0037,ACC005,CUST005,2025-01-28,Credit,4557.25,Travel,Online Transfer,Completed,Toronto,2026-05-13 23:24:28
+TXN0038,ACC012,CUST012,2025-02-04,Debit,2143.6,Utilities,Debit Card,Pending,Toronto,2026-05-13 23:24:28
+TXN0039,ACC012,CUST012,2025-02-15,Debit,436.23,Transfer,ACH,Completed,Oshawa,2026-05-13 23:24:28
+TXN0040,ACC013,CUST013,2025-03-26,Debit,1018.37,Groceries,ACH,Completed,Toronto,2026-05-13 23:24:28
+TXN0041,ACC005,CUST005,2025-03-05,Debit,1979.63,Insurance,Debit Card,Completed,Online,2026-05-13 23:24:28
+TXN0042,ACC008,CUST008,2025-03-15,Credit,1882.46,Utilities,Credit Card,Completed,Mississauga,2026-05-13 23:24:28
+TXN0043,ACC008,CUST008,2025-04-10,Credit,1309.78,Healthcare,Debit Card,Failed,Oshawa,2026-05-13 23:24:28
+TXN0044,ACC003,CUST003,2025-01-10,Debit,215.66,Transfer,Online Transfer,Pending,Oshawa,2026-05-13 23:24:28
+TXN0045,ACC006,CUST006,2025-02-22,Debit,1494.88,Healthcare,Online Transfer,Completed,Toronto,2026-05-13 23:24:28
+TXN0046,ACC009,CUST009,2025-02-06,Debit,945.44,Restaurant,ACH,Pending,Toronto,2026-05-13 23:24:28
+TXN0047,ACC001,CUST001,2025-02-04,Debit,1345.33,Fuel,Online Transfer,Pending,Brampton,2026-05-13 23:24:28
+TXN0048,ACC009,CUST009,2025-02-05,Debit,1247.1,Online Shopping,Credit Card,Completed,Toronto,2026-05-13 23:24:28
+TXN0049,ACC013,CUST013,2025-03-04,Debit,1331.21,Insurance,Mobile Wallet,Completed,Brampton,2026-05-13 23:24:28
+TXN0050,ACC009,CUST009,2025-01-06,Credit,2091.92,Transfer,ACH,Completed,Online,2026-05-13 23:24:28
+TXN0051,ACC011,CUST011,2025-01-11,Credit,4437.28,Online Shopping,ACH,Completed,Brampton,2026-05-13 23:24:28
+TXN0052,ACC014,CUST014,2025-04-02,Credit,3995.07,Healthcare,Mobile Wallet,Completed,Brampton,2026-05-13 23:24:28
+TXN0053,ACC003,CUST003,2025-01-27,Credit,222.51,Travel,Debit Card,Failed,Oshawa,2026-05-13 23:24:28
+TXN0054,ACC003,CUST003,2025-04-17,Debit,2074.66,Utilities,ACH,Completed,Mississauga,2026-05-13 23:24:28
+TXN0055,ACC009,CUST009,2025-04-20,Credit,2919.01,Healthcare,Debit Card,Failed,Online,2026-05-13 23:24:28
+TXN0056,ACC013,CUST013,2025-01-18,Debit,1282.57,Groceries,Debit Card,Failed,Brampton,2026-05-13 23:24:28
+TXN0057,ACC007,CUST007,2025-02-18,Debit,65.45,Fuel,Credit Card,Pending,Mississauga,2026-05-13 23:24:28
+TXN0058,ACC005,CUST005,2025-03-08,Debit,2238.1,Healthcare,Mobile Wallet,Failed,Mississauga,2026-05-13 23:24:28
+TXN0059,ACC011,CUST011,2025-02-14,Credit,462.24,Restaurant,ACH,Completed,Mississauga,2026-05-13 23:24:28
+TXN0060,ACC009,CUST009,2025-01-05,Credit,3576.52,Healthcare,ACH,Completed,Brampton,2026-05-13 23:24:28
+TXN0005,ACC015,CUST015,2025-02-08,Credit,4252.13,Travel,Mobile Wallet,Pending,Online,2026-05-13 23:24:28
+TXN0061,,CUST001,2025-02-15,Debit,350.75,Fuel,Debit Card,Completed,Toronto,2026-05-13 23:24:28
+TXN0062,ACC002,CUST002,2025-02-20,Credit,,Transfer,Online Transfer,Completed,Online,2026-05-13 23:24:28
+TXN0063,ACC003,CUST003,,Debit,89.99,Restaurant,Credit Card,Completed,Mississauga,2026-05-13 23:24:28
+,ACC004,CUST004,2025-03-01,Debit,140.25,Groceries,Debit Card,Completed,Brampton,2026-05-13 23:24:28
